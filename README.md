@@ -31,7 +31,7 @@ pip install streamlit
 
 3. **Ejecuta la aplicación:**
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Esto abrirá automáticamente la aplicación en tu navegador por defecto.
