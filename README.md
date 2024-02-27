@@ -1,7 +1,7 @@
 # Chat SWO con Streamlit
 
 Este proyecto implementa una aplicación de chat simple pero interactiva utilizando Streamlit, permitiendo a los usuarios hacer preguntas y recibir respuestas simuladas. La aplicación mantiene un historial de la interacción que se puede revisar y gestionar. Fue diseñado siguiendo principios de código limpio y está estructurado para facilitar su expansión o integración con sistemas de respuestas más complejos.
-
+Esto es un cambio minimo
 ## Características
 
 - **Interfaz de Usuario Simple:** Utiliza Streamlit para una UI clara y amigable.
